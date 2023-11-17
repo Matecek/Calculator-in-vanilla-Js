@@ -1,2 +1,7 @@
 # Calculator-in-vanilla-Js
-This is a basic calculator created with vanilla js
+Basic calculator created in vanilla js.
+
+Technologies used: 
+* HTML
+* CSS
+* Vanilla Js
